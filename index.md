@@ -1,3 +1,4 @@
+# Gaweyuk
 # Kebijakan Privasi
 
 Gaweyuk adalah perusahaan GaweYuk! adalah platform rekrutmen di Indonesia yang berfokus pada penyaluran kelompok kerja kerah biru (blue-collar) dan tingkat pemula (entry level). Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan kami dengan pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi bagi siapa saja yang menggunakan aplikasi dan situs Gaweyuk.
